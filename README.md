@@ -14,3 +14,5 @@ Curated libs on github
 - https://github.com/whatsupcoders/flutter-chart-firestore
 - https://github.com/415593725/flutter_k_chart
 - https://github.com/good-good-study/flutter_chart
+- https://github.com/JacobJust/fl_animated_linechart
+- 
